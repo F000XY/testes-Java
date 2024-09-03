@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faturamento>
+    <dia>
+        <data>01/09/2024</data>
+        <valor>150.00</valor>
+    </dia>
+    <dia>
+        <data>02/09/2024</data>
+        <valor>200.00</valor>
+    </dia>
+    <!-- Vou realizar o teste apenas com dois valores ok? :) -->
+    <!-- confesso que esse foi um pouquinho mais dificil fiz com auxilio de pesquisas! Mas foi um otimo desafio-->
+</faturamento>
